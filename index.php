@@ -3,7 +3,7 @@
 require_once './vendor/autoload.php';
 
 
-const VK_TOKEN = 'ae51ff9f59f0c40f029c67c3588466bcec1f7ff0f333404769952a31290c3cf097f5b7c0cfd90b0da4562';
+const VK_TOKEN = '4f1b28f82d23cef6469e3d4696dab73c22f935c7c586cac558dabcaf6bfb7e22c7273f068d88dc287cd89';
 
 use VK\Client\Enums\VKLanguage;
 use VK\Client\VKApiClient;
@@ -110,4 +110,4 @@ if ($type === 'message_new') {
 }
 
 
-echo  "OK";
+echo  "2fd8dc9f";
